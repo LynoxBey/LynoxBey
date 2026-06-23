@@ -10,25 +10,68 @@
 
 # 👋 Hey, I'm Lynox
 
-💻 Passionate developer from Türkiye
+💻 Passionate Developer from Türkiye
 
 🚀 Building cool projects and learning new technologies
 
-🌱 Currently learning React, TypeScript and Backend Development
+---
+
+## 🧠 Developer Profile
+
+```yaml
+name: Lynox
+location: Turkey
+role: Frontend Developer
+
+learning:
+  - React
+  - TypeScript
+  - Node.js
+  - AI
+
+interests:
+  - Web Development
+  - AI
+  - Open Source
+  - Game Development
+```
 
 ## 🚀 Current Projects
 
 - 🌍 RenklabTR
-- 💻 Personal Portfolio
+- 💼 Personal Portfolio
 - 🤖 AI Experiments
-- 📚 Learning TypeScript
 - 🎮 Game Development
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://x.com/lynoxbey3131">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://www.linkedin.com/in/abdullah-tolan-051708385">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.youtube.com/@lynoxbey">
+<img src="https://skillicons.dev/icons?i=youtube" />
+</a>
+</p>
+
+---
 
 ## ⚡ Tech Stack
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,mysql,linux,java,cpp,cs,dotnet,aws,gcp,unity,unreal&perline=9" />
+
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -40,36 +83,60 @@
 
 </div>
 
+---
+
 ## 🔥 Streak Stats
 
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lynoxbey&theme=tokyonight"/>
+
 </div>
+
+---
 
 ## 📈 Activity Graph
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lynoxbey&theme=tokyo-night"/>
+
 </div>
 
-## 🏆 Achievements
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=lynoxbey&theme=tokyonight&row=1&column=7"/>
+
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
+
+---
 
 ## 🎯 2026 Goals
 
-- ⭐ Reach 100+ GitHub Followers
-- 🚀 Launch More Projects
-- 📚 Master TypeScript
+- ⭐ Reach 100+ Followers
+- 🚀 Launch New Projects
 - 🤖 Build AI Applications
+- 🌍 Grow RenklabTR
+
+---
+
+## 💡 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
 
 <div align="center">
 
