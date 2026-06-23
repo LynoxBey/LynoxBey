@@ -1,0 +1,17 @@
+name: Spotify Update
+
+on:
+workflow_dispatch:
+
+jobs:
+spotify:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
+
+  - name: Done
+    run: echo "Spotify workflow created successfully"
+```
