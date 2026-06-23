@@ -1,28 +1,107 @@
-<h1 align="center">Hi 👋, I'm Lynox</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lynoxbey&label=Profile%20views&color=0e75b6&style=flat" alt="lynoxbey" /> </p>
+# 👋 Hey, I'm Abdullah (Lynox)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynoxbey" alt="lynoxbey" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Learner;Open+Source+Enthusiast;Always+Learning+New+Things" />
 
-<p align="left"> <a href="https://twitter.com/x.com/lynoxbey3131" target="blank"><img src="https://img.shields.io/twitter/follow/x.com/lynoxbey3131?logo=twitter&style=for-the-badge" alt="x.com/lynoxbey3131" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=lynoxbey&label=Visitors&color=0e75b6&style=for-the-badge" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/x.com/lynoxbey3131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/lynoxbey3131" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-tolan-051708385/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-tolan-051708385/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/lynoxbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/lynoxbey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@lynoxbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lynoxbey" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/huge_boar_06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/huge_boar_06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abdullahtolan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abdullahtolan6" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/px1v38iobt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/px1v38iobt/" height="30" width="40" /></a>
+</div>
+
+---
+
+## 🚀 About Me
+
+```js
+const lynox = {
+  location: "Turkey 🇹🇷",
+  role: "Frontend Developer",
+  learning: ["React", "TypeScript", "Node.js"],
+  hobbies: ["Coding", "Gaming", "Design"],
+  motto: "Code. Learn. Repeat."
+}
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://x.com/lynoxbey3131">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a href="https://www.linkedin.com/in/abdullah-tolan-051708385">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://www.youtube.com/@lynoxbey">
+<img src="https://skillicons.dev/icons?i=youtube" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynoxbey&show_icons=true&locale=en&layout=compact" alt="lynoxbey" /></p>
+## ⚡ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lynoxbey&show_icons=true&locale=en" alt="lynoxbey" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynoxbey&" alt="lynoxbey" /></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,mysql,linux,java,cpp,cs,dotnet,aws,gcp,unity,unreal&perline=9" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lynoxbey&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynoxbey&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lynoxbey&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lynoxbey&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31i7xxxxxxxxxxxx&cover_image=true&theme=default"/>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6E44FF&height=120&section=footer"/>
+
+</div>
